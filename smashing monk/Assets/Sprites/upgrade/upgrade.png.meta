@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: f37e807e75183074c942ff70589e7ed1
+timeCreated: 1461046084
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: upgrade_0
+    21300002: upgrade_1
+    21300004: upgrade_2
+    21300006: upgrade_3
+    21300008: upgrade_4
+    21300010: upgrade_5
+    21300012: upgrade_6
+    21300014: upgrade_7
+    21300016: upgrade_8
+    21300018: upgrade_9
+    21300020: upgrade_10
+    21300022: upgrade_11
+    21300024: upgrade_12
+    21300026: upgrade_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: upgrade_0
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1240
+        width: 732
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upgrade_1
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1127
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upgrade_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 672
+        width: 374
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upgrade_3
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 681
+        width: 367
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upgrade_4
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 671
+        width: 369
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upgrade_5
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 697
+        width: 372
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upgrade_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 252
+        width: 410
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upgrade_7
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 252
+        width: 411
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upgrade_8
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 242
+        width: 398
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upgrade_9
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 269
+        width: 402
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upgrade_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 353
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upgrade_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 354
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upgrade_12
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 0
+        width: 347
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: upgrade_13
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 0
+        width: 357
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

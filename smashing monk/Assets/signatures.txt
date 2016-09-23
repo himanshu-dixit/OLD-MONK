@@ -1,0 +1,30 @@
+Keystore type: JKS
+Keystore provider: SUN
+
+Your keystore contains 1 entry
+
+Alias name: hudixt
+Creation date: Mar 22, 2016
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=Utkarsh Dixit, OU=GameStream, O=GameStream, L=Jaipur, ST=Rajasthan, C=91
+Issuer: CN=Utkarsh Dixit, OU=GameStream, O=GameStream, L=Jaipur, ST=Rajasthan, C=91
+Serial number: 6ca2b208
+Valid from: Tue Mar 22 21:47:57 PDT 2016 until: Sat Mar 16 21:47:57 PDT 2041
+Certificate fingerprints:
+         MD5:  C7:AB:ED:C1:B3:F0:22:A0:C9:35:1B:67:BF:D9:0A:98
+         SHA1: 37:09:B5:A6:F9:C6:65:2A:28:0B:FA:51:AE:96:C6:3C:98:15:AE:8C
+         SHA256: C5:3F:E9:A5:94:FA:52:93:6D:76:9F:EE:59:52:7C:DC:0C:8E:0E:EE:53:B0:0F:25:C1:DA:C5:FC:C0:F7:D0:7A
+         Signature algorithm name: SHA256withRSA
+         Version: 3
+
+Extensions:
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: D5 F3 A5 99 F1 C3 98 A9   9F 2B BE BC 17 66 3C 23  .........+...f<#
+0010: 0F E7 C4 78                                        ...x
+]
+]
