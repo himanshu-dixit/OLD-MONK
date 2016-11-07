@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 45e2845267c6de54ea4d9788b8f77bcd
+timeCreated: 1466100780
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NewUI_0
+    21300002: NewUI_1
+    21300004: NewUI_2
+    21300006: NewUI_3
+    21300008: NewUI_4
+    21300010: NewUI_5
+    21300012: NewUI_6
+    21300014: NewUI_7
+    21300016: NewUI_8
+    21300018: NewUI_9
+    21300020: NewUI_10
+    21300022: NewUI_11
+    21300024: NewUI_12
+    21300026: NewUI_13
+    21300028: NewUI_14
+    21300030: NewUI_15
+    21300032: NewUI_16
+    21300034: NewUI_17
+    21300036: NewUI_18
+    21300038: NewUI_19
+    21300040: NewUI_20
+    21300042: NewUI_21
+    21300044: NewUI_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NewUI_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2502
+        width: 1093
+        height: 311
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_1
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 2473
+        width: 1093
+        height: 308
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_2
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 2439
+        width: 1093
+        height: 308
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2096
+        width: 291
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_4
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2118
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_5
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2086
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_6
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 2086
+        width: 174
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_7
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 2105
+        width: 554
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_8
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 2110
+        width: 40
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_9
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 2110
+        width: 107
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_10
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 2105
+        width: 110
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_11
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 2040
+        width: 203
+        height: 203
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_12
+      rect:
+        serializedVersion: 2
+        x: 4074
+        y: 1986
+        width: 285
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_13
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2008
+        width: 249
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_14
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 1935
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_15
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1930
+        width: 112
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_16
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 1935
+        width: 109
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_17
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1935
+        width: 119
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1498
+        width: 978
+        height: 269
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_19
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 199
+        width: 2326
+        height: 1457
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 960
+        width: 978
+        height: 269
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 444
+        width: 978
+        height: 271
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewUI_22
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1847
+        width: 969
+        height: 408
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

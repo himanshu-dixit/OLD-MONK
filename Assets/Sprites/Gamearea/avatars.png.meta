@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 7af7dcc76ad9ac247bf8cdadf5a40a96
+timeCreated: 1462216026
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: avatars_0
+    21300002: avatars_1
+    21300004: avatars_2
+    21300006: avatars_3
+    21300008: avatars_4
+    21300010: avatars_5
+    21300012: avatars_6
+    21300014: avatars_7
+    21300016: avatars_8
+    21300018: avatars_9
+    21300020: avatars_10
+    21300022: avatars_11
+    21300024: avatars_12
+    21300026: avatars_13
+    21300028: avatars_14
+    21300030: avatars_15
+    21300032: avatars_16
+    21300034: avatars_17
+    21300036: avatars_18
+    21300038: avatars_19
+    21300040: avatars_20
+    21300042: avatars_21
+    21300044: avatars_22
+    21300046: avatars_23
+    21300048: avatars_24
+    21300050: avatars_25
+    21300052: avatars_26
+    21300054: avatars_27
+    21300056: avatars_28
+    21300058: avatars_29
+    21300060: avatars_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: avatars_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1670
+        width: 291
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1666
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_2
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1672
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_3
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1667
+        width: 292
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_4
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1659
+        width: 286
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1548
+        width: 192
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_6
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1536
+        width: 192
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_7
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1541
+        width: 192
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_8
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1530
+        width: 192
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_9
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1521
+        width: 192
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1198
+        width: 297
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1192
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_12
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1195
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_13
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1197
+        width: 292
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_14
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1171
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1054
+        width: 193
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_16
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1059
+        width: 193
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_17
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1047
+        width: 193
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_18
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1038
+        width: 192
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 713
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_20
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 711
+        width: 305
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_21
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 717
+        width: 306
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_22
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 709
+        width: 293
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_23
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 695
+        width: 308
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 582
+        width: 192
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 570
+        width: 192
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_26
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 575
+        width: 192
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_27
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 564
+        width: 192
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_28
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 555
+        width: 192
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 246
+        width: 295
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: avatars_31
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 109
+        width: 192
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

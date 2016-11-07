@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 43c22faf22e034d408fdaabf80c9ee32
+timeCreated: 1462817873
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ElementSprites_0
+    21300002: ElementSprites_1
+    21300004: ElementSprites_2
+    21300006: ElementSprites_3
+    21300008: ElementSprites_4
+    21300010: ElementSprites_6
+    21300012: ElementSprites_7
+    21300014: ElementSprites_8
+    21300016: ElementSprites_9
+    21300018: ElementSprites_10
+    21300020: ElementSprites_11
+    21300022: ElementSprites_12
+    21300024: ElementSprites_13
+    21300026: ElementSprites_14
+    21300028: ElementSprites_15
+    21300030: ElementSprites_5
+    21300032: ElementSprites_16
+    21300034: ElementSprites_17
+    21300036: ElementSprites_18
+    21300038: ElementSprites_19
+    21300040: ElementSprites_20
+    21300042: ElementSprites_21
+    21300044: ElementSprites_22
+    21300046: ElementSprites_23
+    21300048: ElementSprites_24
+    21300050: ElementSprites_25
+    21300052: ElementSprites_26
+    21300054: ElementSprites_27
+    21300056: ElementSprites_28
+    21300058: ElementSprites_29
+    21300060: ElementSprites_30
+    21300062: ElementSprites_31
+    21300064: ElementSprites_32
+    21300066: ElementSprites_33
+    21300068: ElementSprites_34
+    21300070: ElementSprites_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ElementSprites_0
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 6840
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_1
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 6827
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_2
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 6840
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_3
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 6840
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_4
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 6840
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_5
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 6840
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_6
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 6840
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_7
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 6840
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_8
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 6840
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_9
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 6840
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_10
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 6840
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 5654
+        width: 196
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_12
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 5658
+        width: 196
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_13
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 5658
+        width: 195
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_14
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 5430
+        width: 512
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_15
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 5602
+        width: 87
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_16
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 5675
+        width: 218
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_17
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 5513
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4507
+        width: 572
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_19
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 4507
+        width: 573
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_20
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 4638
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_21
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 4507
+        width: 570
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_22
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 4507
+        width: 572
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_23
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 4514
+        width: 576
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3514
+        width: 570
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_25
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 3509
+        width: 572
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_26
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 3509
+        width: 570
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_27
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 3490
+        width: 577
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_28
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 3497
+        width: 562
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_29
+      rect:
+        serializedVersion: 2
+        x: 4007
+        y: 3517
+        width: 570
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2651
+        width: 573
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_31
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2655
+        width: 572
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_32
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1956
+        width: 1007
+        height: 1209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_33
+      rect:
+        serializedVersion: 2
+        x: 4007
+        y: 2645
+        width: 570
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_34
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 1779
+        width: 572
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElementSprites_35
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
