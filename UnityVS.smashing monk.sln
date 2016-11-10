@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.smashing monk.CSharp.Plugins", "UnityVS.smashing monk.CSharp.Plugins.csproj", "{A100AF8D-858F-ED42-D715-F906ACE0F145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.smashing monk.CSharp", "UnityVS.smashing monk.CSharp.csproj", "{0413F44E-B52D-17E4-A407-D298F4A8CDE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.smashing monk.CSharp.Editor", "UnityVS.smashing monk.CSharp.Editor.csproj", "{160710A5-A842-FF95-8C7B-12702688E4C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A100AF8D-858F-ED42-D715-F906ACE0F145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A100AF8D-858F-ED42-D715-F906ACE0F145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A100AF8D-858F-ED42-D715-F906ACE0F145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A100AF8D-858F-ED42-D715-F906ACE0F145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0413F44E-B52D-17E4-A407-D298F4A8CDE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0413F44E-B52D-17E4-A407-D298F4A8CDE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0413F44E-B52D-17E4-A407-D298F4A8CDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0413F44E-B52D-17E4-A407-D298F4A8CDE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{160710A5-A842-FF95-8C7B-12702688E4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160710A5-A842-FF95-8C7B-12702688E4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160710A5-A842-FF95-8C7B-12702688E4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160710A5-A842-FF95-8C7B-12702688E4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
