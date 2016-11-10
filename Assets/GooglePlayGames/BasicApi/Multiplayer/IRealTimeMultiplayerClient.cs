@@ -77,7 +77,7 @@ namespace GooglePlayGames.BasicApi.Multiplayer
     void CreateQuickGame(uint minOpponents, uint maxOpponents, uint variant,
         ulong exclusiveBitMask,
         RealTimeMultiplayerListener listener);
-  
+
     /// <summary>
     /// Creates a game with an invitation screen.
     /// </summary>
