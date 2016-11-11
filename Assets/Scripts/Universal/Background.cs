@@ -6,7 +6,8 @@ public class Background : MonoBehaviour {
     private bool canPlay;
     void Start()
     {
-        Audio = GetComponent<AudioSource>();
+		Screen.sleepTimeout = SleepTimeout.NeverSleep;
+        Audio = GetComponent<AudioSource>(); 
         canPlay = true;
     }
 	void Update () {
@@ -14,6 +15,7 @@ public class Background : MonoBehaviour {
         if (!PlayerPrefs.HasKey("music"))
         {
             PlayerPrefs.SetInt("music", 1);
+            PlayerPrefs.Save();
         }
         // bool to tell if music should be played or not. Make it default to false
         bool playMusic = false;

@@ -22,6 +22,7 @@ public class EventsWatcher : MonoBehaviour {
         string value = component.value + "";
         //Set the value as music bool value
         PlayerPrefs.SetInt("music",int.Parse(value));
+        PlayerPrefs.Save();
     }
     public void Sound(Slider component)
     {
@@ -30,6 +31,7 @@ public class EventsWatcher : MonoBehaviour {
         string value = component.value + "";
         //Set the value as sound bool value
         PlayerPrefs.SetInt("sound", int.Parse(value));
+        PlayerPrefs.Save();
     }
     public void About()
     {
